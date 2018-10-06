@@ -1,1 +1,4 @@
 If modulea compiled code is present in diff folder(out1) and moduleb code in diff folder(out2):
+
+
+Also can use --upgrade-module-path info to specify diff output folders.
